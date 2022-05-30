@@ -723,6 +723,7 @@ img.list-certificate-item {
     position: relative;
     color: rgb(47, 49, 59);
     font-size: 1.8rem;
+    line-height:1.6;
     margin-bottom: 10px;
     font-weight: 500;
 }
