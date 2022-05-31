@@ -127,6 +127,11 @@
         margin-right: 0;
         font-size: 24px;
     }
+    .intro-user-right__job {
+        display: block;
+        font-size: 12px;
+        text-align: left;
+    }
     .intro-user-right__social{
         margin-top: 32px;
     }
