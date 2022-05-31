@@ -1149,5 +1149,12 @@ h4.extend-item-text-title--h4-MT.score-object {
     padding-left: 60px;
 }
 
+p.extend-item-para-text-list {
+    color: rgb(47, 47, 47);
+    font-size: 1.7rem;
+    line-height: 1.6;
+    padding-left: 27px;
+}
+
 
 
