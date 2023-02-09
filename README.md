@@ -1,5 +1,5 @@
 <h1 align="center">
-   Info Hồ Hắc Hải
+   My Info
 </h1>
 
 ## Introduction
